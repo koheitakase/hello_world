@@ -7,7 +7,7 @@ class User
     def introduce
         <<~EOS
 
-        自分のあだ名は#{@nickname}です。
+        自分のニックネームは#{@nickname}です。
         年齢は#{@age}です。
         
         EOS
